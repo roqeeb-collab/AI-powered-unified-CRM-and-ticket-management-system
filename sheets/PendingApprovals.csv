@@ -1,0 +1,2 @@
+thread_id,ticket_id,to,subject,pending_since,reminded,resolved,resolved_at,resolved_by
+190f2c1e4a5b3d8f,TKT-LZWQZ1PK,jane@acme.com,Re: NIP transfer stuck pending 30min,2026-05-24T09:01:15Z,FALSE,FALSE,,
